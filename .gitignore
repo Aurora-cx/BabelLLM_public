@@ -1,0 +1,30 @@
+# 模型和数据文件
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.npy
+*.npz
+*.zip
+*.tar
+*.gz
+*.h5
+*.pkl
+
+# 日志输出和中间结果
+outputs/
+outputs_past/
+logs/
+*.log
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 编辑器设置
+.vscode/
+.cursor/
+.DS_Store
